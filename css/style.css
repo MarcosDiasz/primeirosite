@@ -1,97 +1,97 @@
 
 body{
 
-	background-color: lightblue;
+	background-color:lightblue;
 }
 
 a:link{
 
-	color: darkblue;
-	background-color: transparent;
-	text-decoration: none;
+	color:darkblue;
+	background-color:transparent;
+	text-decoration:none;
 
 }
 
 a:visited{
 
 	color: red;
-	background-color: transparent;
-	text-decoration: underline;
+	background-color:transparent;
+	text-decoration:underline;
 }
 
 a:hover{
 
 	color: purple;
-	background-color: transparent;
-	text-decoration: underline;
+	background-color:transparent;
+	text-decoration:underline;
 
 }
 
 
 .titulos{
 
-	background-color: rgba(119,136,153,2);
-	text-align: center;
+	background-color:rgba(119,136,153,2);
+	text-align:center;
 }
 
 
 .container{
 
-	width: 80%;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 2%
-	margin-bottom: 2%;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:2%
+	margin-bottom:2%;
 }
 
 header{
 
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 2%
-	margin-bottom: 2%;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:2%
+	margin-bottom:2%;
 
 }
 
 footer{
 
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 2%
-	margin-bottom: 2%;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:2%
+	margin-bottom:2%;
 
 }
 
 h1, h2{
-	font-size: 25;
-	margin-bottom: 5;
+	font-size:25;
+	margin-bottom:5;
 }
 
 p{
-	margin-right: auto;
-	margin-left: auto;
-	margin-top: 10;
-	margin-bottom: 10;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:10;
+	margin-bottom:10;
 
 }
 
 table, td, th{
 
-	border: 1px solid black;
-	border-spacing: 5px;
-	padding: 10px;
+	border:1px solid black;
+	border-spacing:5px;
+	padding:10px;
 }
 
 .colorido{
 
-	color: darkblue;
+	color:darkblue;
 
 }
 
 .colorido2{
 
-	color: brown;
+	color:brown;
 
 }
