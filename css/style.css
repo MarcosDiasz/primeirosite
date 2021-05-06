@@ -30,9 +30,12 @@ a:hover{
 
 
 .titulos{
-
+	top:0;
+	position: fixed;
+	z-index: 1030;
 	background-color:rgba(119,136,153,2);
 	text-align:center;
+	width: 100%
 }
 
 
@@ -41,7 +44,7 @@ a:hover{
 	width:80%;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:2%
+	margin-top:2%;
 	margin-bottom:2%;
 }
 
@@ -101,8 +104,19 @@ table, td, th{
 
 img{
 
+	position: relative;
 	width:50%;
 	margin-left:auto;
 	margin-right:auto;
+
+}
+
+.titulos2{
+
+	position: relative;
+	background-color:rgba(119,136,153,2);
+	text-align:center;
+	width:100%;
+	bottom:0;
 
 }
